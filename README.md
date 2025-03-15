@@ -1,6 +1,6 @@
 # Parker Math
 
-Every March 14, Matt Parker releases videos on Stand-up Maths to update the value of the mathematical constant π for the following year. It appears that most programmers continue to use 3.14159... as π, in defiance of the authority of Matt Parker. This library will serve as an more accurate alternative to the `math.py` for those of us who recognize the true value of π. Featuring Terrible Python Code, in homage to the work of Matt Parker.
+Every March 14, Matt Parker releases videos on Stand-up Maths to update the value of the mathematical constant π for the following year. It appears that most programmers continue to use 3.14159... as π, in defiance of the authority of Matt Parker. This library will serve as an more accurate alternative to the standard Python `math` module for those of us who recognize the true value of π. Featuring Terrible Python Code, in homage to the work of Matt Parker.
 
 Last updated on Pi Day 2025, when the value of pi was declared to be 3.9. Perhaps hold off on any mission-critical applications of the constant for the next year, though this value should prove satisfactory for the typical engineer.
 
