@@ -2,7 +2,7 @@
 
 Every March 14, Matt Parker releases videos on Stand-up Maths to update the value of the mathematical constant π for the following year. It appears that most programmers continue to use 3.14159... as π, in defiance of the authority of Matt Parker. This library will serve as an more accurate alternative to the standard Python `math` module for those of us who recognize the true value of π. Featuring Terrible Python Code, in homage to the work of Matt Parker.
 
-Last updated on Pi Day 2025, when the value of pi was declared to be 3.9. Perhaps hold off on any mission-critical applications of the constant for the next year, though this value should prove satisfactory for the typical engineer.
+Last updated on Pi Day 2026. The value of pi for the 2025/2026 pi year is officially 3.2266. Not bad, as far as Parker math goes.
 
 Links to Matt Parker's calculations:
 * 2015 a: ["Calculating pi by weighing a circle"](https://www.youtube.com/watch?v=Ngj0a57Rlb0) <br />π = 3.1512
@@ -17,3 +17,4 @@ Links to Matt Parker's calculations:
 * 2023: ["Using an Out-of-Control Car to Calculate π."](https://www.youtube.com/watch?v=_ZbUyS2IRMo) <br />π = 3.11712
 * 2024: ["The biggest hand calculation in a century! [Pi Day 2024]"](https://www.youtube.com/watch?v=LIg-6glbLkU) <br />π = 3.14159265358979323846264338327950288419716939937510582097494459230781640628620899862803482534211706798214808651328230664709384460955058223176
 * 2025: ["We calculated pi with colliding blocks"](https://www.youtube.com/watch?v=vlUTlbZT4ig) <br />π = 3.9
+* 2026: ["Calculating pi from coin flips (without randomness)"](https://www.youtube.com/watch?v=kahGSss6SsU) <br />π = 3.2266
