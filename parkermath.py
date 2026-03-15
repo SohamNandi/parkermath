@@ -1,12 +1,15 @@
 # Parker Math!
 # would it truly be Parker Math without Terrible Python Code?
+# (just to reiterate, yes, it's bad on purpose.)
 # This code is licensed under Creative Commons Zero. No rights reserved. https://creativecommons.org/public-domain/cc0/
 
 from math import * # Everything except for pi is the same as the math library
 import datetime
 
 # Matt Parker's values of pi, based on the system date. New values of pi become effective on Pi Day each year.
-if datetime.date(2025, 3, 14) <= datetime.date.today():
+elif datetime.date(2026, 3, 14) <= datetime.date.today():
+    pi = 3.2266
+elif datetime.date(2025, 3, 14) <= datetime.date.today():
     pi = 3.9
 elif datetime.date(2024, 3, 14) <= datetime.date.today():
     pi = 3.14159265358979323846264338327950288419716939937510582097494459230781640628620899862803482534211706798214808651328230664709384460955058223176
